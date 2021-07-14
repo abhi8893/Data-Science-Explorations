@@ -1,3 +1,6 @@
 [submodule "mlops/mpg-pred-end-to-end-ml"]
 	path = mlops/mpg-pred-end-to-end-ml
 	url = https://github.com/abhi8893/mpg-pred-end-to-end-ml.git
+[submodule "mlops/income-prediction-ml-deployment"]
+	path = mlops/income-prediction-ml-deployment
+	url = https://github.com/abhi8893/income-prediction-ml-deployment
